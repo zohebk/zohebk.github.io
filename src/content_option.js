@@ -25,7 +25,7 @@ const dataabout = {
 
 const worktimeline = [
   {
-    jobtitle: "Group Program Manager",
+    jobtitle: "Technical Program Manager",
     where: "Intuit Inc (TurboTax, QuickBooks, Credit Karma, Mailchimp)",
     date: "July 2021 - Present",
   },
@@ -47,17 +47,18 @@ const worktimeline = [
 ];
 
 const skills = [
-  { name: "C", value: 90 },
+  { name: "Leadership", value: 85 },
+  { name: "Presentation", value: 80 },
   { name: "Javascript", value: 90 },
-  { name: "Python", value: 85 },
+  { name: "Python", value: 95 },
   { name: "Typescript", value: 80 },
-  { name: "HTML & XML", value: 80 },  
-  { name: "API Development & Integration (OpenAI Google APIs etc.)", value: 75 }
+  { name: "Web Development", value: 80 },  
+  { name: "API Development & Integration (OpenAI Google APIs etc.)", value: 90 }
 ];
 
 const services = [
   {
-    title: "TechnicalProgram Management",
+    title: "Technical Program Management",
     description:
       "Strategic planning, risk mitigation, and cross-functional leadership in delivering multi-million dollar projects.",
   },
