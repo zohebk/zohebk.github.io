@@ -1,6 +1,6 @@
 const logotext = "Zoheb Kerawalla";
 const meta = {
-  title: "Experienced Group Program Manager & AI Builder",
+  title: "Experienced Technical Program Manager & AI Builder",
   description:
     "AI builder leveraging LLMs/Agents to reduce time to market for custom applications. 18+ years of leadership delivering projects exceeding $150M, optimizing operations and driving innovation.",
 };
@@ -8,7 +8,7 @@ const meta = {
 const introdata = {
   title: "I'm a Builder and bring my own agents to work. ",
   animated: {
-    first: "I'm a Group Program Manager ",
+    first: "I'm a Technical Program Manager ",
     second: "I'm well versed in technical program management and proficient in working with technical teams",
     third: "Presenting to executive leadership in narrative and data-driven formats",
   },
