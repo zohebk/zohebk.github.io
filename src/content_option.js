@@ -1,6 +1,6 @@
 const logotext = "Zoheb Kerawalla";
 const meta = {
-  title: "Experienced Technical Program Manager & AI Builder",
+  title: "Experienced Technical Manager & AI Builder",
   description:
     "AI builder leveraging LLMs/Agents to reduce time to market for custom applications. 18+ years of leadership delivering projects exceeding $150M, optimizing operations and driving innovation.",
 };
@@ -8,24 +8,24 @@ const meta = {
 const introdata = {
   title: "I'm a Builder and bring my own agents to work. ",
   animated: {
-    first: "I'm a Technical Program Manager ",
-    second: "I'm well versed in technical program management and proficient in working with technical teams",
+    first: "I'm a Technical Manager ",
+    second: "I'm well versed in technical implementations and proficient in working with technical teams",
     third: "Presenting to executive leadership in narrative and data-driven formats",
   },
   description:
-    "Expert in developing pricing strategies, program governance, and team leadership across diverse sectors. Passionate about automating business processes and delivering custom solutions.",
+    "Expert in developing implementation strategies, processes, governance, and team leadership across diverse sectors. Passionate about automating business processes and delivering custom solutions.",
   your_img_url: "./ZohebAi.riv",
 };
 
 const dataabout = {
   title: "About Me",
   aboutme:
-    "With over 18 years of experience, I specialize in AI-driven application development and program management. I've led cross-functional teams at Intuit, Deloitte, and Wipro, consistently delivering complex projects and driving operational excellence.",
+    "With over 18 years of experience, I specialize in AI-driven application development and  management. I've led cross-functional teams at Intuit, Deloitte, and Wipro, consistently delivering complex projects and driving operational excellence.",
 };
 
 const worktimeline = [
   {
-    jobtitle: "Technical Program Manager",
+    jobtitle: "Technical Manager",
     where: "Intuit Inc (TurboTax, QuickBooks, Credit Karma, Mailchimp)",
     date: "July 2021 - Present",
   },
@@ -40,7 +40,7 @@ const worktimeline = [
     date: "August 2007 - May 2009",
   },
   {
-    jobtitle: "Java/J2EE Engineer",
+    jobtitle: "Software Engineer",
     where: "Wipro Technologies Limited, Pune, India",
     date: "November 2005 - July 2007",
   },
@@ -53,12 +53,13 @@ const skills = [
   { name: "Python", value: 95 },
   { name: "Typescript", value: 80 },
   { name: "Web Development", value: 80 },  
-  { name: "API Development & Integration (OpenAI Google APIs etc.)", value: 90 }
+  { name: "API Development & Integration (OpenAI Google APIs etc.)", value: 90 },
+  { name: "Open AI , Gemini and Claude Agents", value: 90 }
 ];
 
 const services = [
   {
-    title: "Technical Program Management",
+    title: "Technical  Management",
     description:
       "Strategic planning, risk mitigation, and cross-functional leadership in delivering multi-million dollar projects.",
   },
@@ -91,7 +92,7 @@ const dataportfolio = [
     img: "./FinanceAgent.png",
     description:
       "Experiment with custom application using Generative AI LLM and Agentic architecture.",
-    link: "www.invest4returns.com",
+    link: "https://www.invest4returns.com",
   },
 ];
 
