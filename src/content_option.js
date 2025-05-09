@@ -1,6 +1,6 @@
 const logotext = "Zoheb Kerawalla";
 const meta = {
-  title: "Experienced Technical Manager & AI Builder",
+  title: "Experienced Technical Manager & AI Builder ",
   description:
     "AI builder leveraging LLMs/Agents to reduce time to market for custom applications. 18+ years of leadership delivering projects exceeding $150M, optimizing operations and driving innovation.",
 };
